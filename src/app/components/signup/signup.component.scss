@@ -19,6 +19,18 @@
   color: #00bfff;
 }
 
+.input-field.error {
+  border: 1px solid red;
+}
+
+.input-field.error .icon {
+  color: red;
+}
+
+.text-danger {
+  color: red;
+}
+
 #forget:hover,
 #signup:hover {
   text-decoration: underline;
